@@ -1,16 +1,14 @@
-### Hi there 👋
+### *Hi, I'm Ninetthe and I define myself as a person who is constantly learning, because every day we learn something new.*  👩‍💻👋
 
-<!--
-**Ninetthe/Ninetthe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" height="100" width="100" alt="logo" />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_**<p> Social networks: </p>**_
+ - _**<a href="https://twitter.com/NinetthedeLeon">Twitter</a>**_
+ - _**<a href="https://www.linkedin.com/in/ninetthe/">Linkedin</a>**_
+  
+
+  
